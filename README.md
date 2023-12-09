@@ -1,35 +1,17 @@
-### Hi there 👋
+# Hello👋, I'm Amirah Dzatul Himmah
 
+Welcome to my GitHub profile! I'm Amirah Dzatul Himmah, a computer science student with a primary interest in AI, ML, and Computer Vision.
+
+## About Me
+
+I am Amirah, a Computer Science student at the Indonesia University of Education, with a profound passion for deep learning. I am dedicated to acquiring skills related to my interest, including proficiency in the Python programming language. I focus on foundational machine learning concepts such as image classification, pose detection, and object detection, as well as expertise in the OpenCV library, among others. My strong desire for a career in computer vision motivates me to seize every opportunity that can support my dream.
+
+## Skills
+
+- 💻 Programming: [Python, PHP]
+- 🤖 Machine Learning & AI: [Tensorflow, OpenCV]
+- 🌐 Web Development: [Laravel]
 <!--
-**amirahdzh/amirahdzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Halo, Saya [Nama Anda]
-
-Selamat datang di profil GitHub saya! Saya [Nama Anda], seorang [Gelar atau Jabatan] dengan minat utama dalam [Bidang atau Keahlian Anda].
-
-## Tentang Saya
-
-- 🎓 Saya seorang [Mahasiswa/Sarjana/Pelajar/Profesional] di [Nama Universitas atau Tempat Kerja].
-- 💼 Saat ini bekerja sebagai [Jabatan atau Pekerjaan Anda] di [Perusahaan atau Organisasi Anda].
-
-## Keahlian
-
-- 💻 Pemrograman: [Bahasa Pemrograman Favorit Anda]
-- 🤖 Machine Learning & AI: [Frameworks atau Library yang Anda Kuasai]
-- 🌐 Pengembangan Web: [Teknologi Web yang Anda Kuasai]
-
 ## Proyek Terkini
 
 - 🚀 [Nama Proyek 1]: Deskripsi singkat proyek dan link repository jika ada.
@@ -38,11 +20,12 @@ Selamat datang di profil GitHub saya! Saya [Nama Anda], seorang [Gelar atau Jaba
 ## Statistik GitHub
 
 [![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-## Hubungi Saya
+## Contact Me
 
-📫 Anda bisa mencapai saya di [Email Anda] atau melalui [LinkedIn](https://www.linkedin.com/in/nama-anda/) atau [Twitter](https://twitter.com/nama-anda).
+📫 You can reach me at amirahdzh@gmail.com or through [LinkedIn](https://www.linkedin.com/in/amirahdzh/).
 
-Terima kasih telah mengunjungi profil GitHub saya!
+Thank you for visiting my GitHub profile!
 
 
