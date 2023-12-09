@@ -8,9 +8,9 @@ I am Amirah, a Computer Science student at the Indonesia University of Education
 
 ## Skills
 
-- 💻 Programming: [Python, PHP]
-- 🤖 Machine Learning & AI: [Tensorflow, OpenCV]
-- 🌐 Web Development: [Laravel]
+- 💻 Programming: Python, PHP
+- 🤖 Machine Learning & AI: Tensorflow, OpenCV
+- 🌐 Web Development: Laravel
 <!--
 ## Proyek Terkini
 
