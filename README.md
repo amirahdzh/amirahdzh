@@ -31,13 +31,16 @@
 
 <p align="justify">
   <a href="https://linkedin.com/in/amirahdzh">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="40"/>
   </a>
   <a href="https://www.facebook.com/amirahdzh">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white" alt="Facebook" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/amirahdzh">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" width="40"/>
   </a>
   <a href="mailto:amirahdzh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" width="40"/>
   </a>
 </p>
 
