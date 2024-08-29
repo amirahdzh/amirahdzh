@@ -17,6 +17,16 @@
   </tr>
 </table>
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
+  </div>
+  <div>
+    <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.</p>
+  </div>
+</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
