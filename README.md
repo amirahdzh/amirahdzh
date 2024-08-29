@@ -29,6 +29,18 @@
 <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
 <p align="justify">Let’s connect if you want to chat or need a hand with something. I’m excited to meet new people and dive into interesting conversations!.<p>
 
+<p align="justify">
+  <a href="https://linkedin.com/in/amirahdzh">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/amirahdzh">
+    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:amirahdzh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/> -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
