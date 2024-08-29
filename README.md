@@ -29,12 +29,12 @@
 <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
 <p align="justify">Let’s connect if you want to chat or need a hand with something. I’m excited to meet new people and dive into interesting conversations!.<p>
 
-- Web: [gading.dev](https://gading.dev)
-- Email: [contact@gading.dev](mailto:contact@gading.dev)
-- LinkedIn: [gadingnst](https://www.linkedin.com/in/gadingnst)
-- Instagram: [@gadingnst](https://instagram.com/gadingnst)
-- Twitter: [@gadingnstn](https://twitter.com/gadingnstn)
-- Telegram: [@gadingnst](https://t.me/gadingnst)
+- Web: [https://amirahdzh.vercel.app](https://amirahdzh.vercel.app/)
+- Email: [amirahdzh@gmail.com](mailto:amirahdzh@gmail.com)
+- LinkedIn: [amirahdzh](https://www.linkedin.com/in/amirahdzh)
+- Instagram: [@amirahdzatulhimmah](https://instagram.com/amirahdzatulhimmah)
+- Twitter: [@amirahdzh](https://twitter.com/amirahdzh)
+- Telegram: [@amirahdzh](https://t.me/amirahdzh)
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/> -->
