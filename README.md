@@ -10,8 +10,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 
-<p align="justify">I am an enthusiastic Web Developer with a strong foundation in both front-end and back-end development. I completed a fullstack bootcamp in Laravel and Vue.js and am currently finishing my Bachelor's degree in Computer Science from UPI, expected by the end of 2024. My thesis, focused on Python and computer vision, has provided me with a solid understanding of integrating AI into web applications. I am proficient in HTML, CSS, JavaScript, and PHP, and I am eager to apply my skills to create responsive, user-friendly websites that incorporate AI capabilities. I am excited to continue learning and growing in a collaborative development environment.<p>
-<p align="justify">Beyond, I'm deeply engaged in video games, anime, and writing, which complements my interests in art, graphic design, and philosophy, enabling me to infuse creativity into every project.<p>
+<p align="justify">I’m Amirah Dzatul Himmah – a code wizard and writing enthusiast! I love turning ideas into reality and crafting code that simplifies life. With a particular passion for web development, I enjoy designing and building engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
+<p align="justify">Let’s connect if you want to chat or need a hand with something. I’m excited to meet new people and dive into interesting conversations!.<p>
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
   <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/>  
