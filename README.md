@@ -6,20 +6,6 @@
 <!--   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>  -->
 </h1>
 
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats dengan ukuran lebih besar dan tanpa border -->
-      <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula&hide_border=true&card_width=600" alt="Amiw Github Stats">
-    </td>
-    <td>
-      <!-- About Me Paragraph -->
-      <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.</p>
-    </td>
-  </tr>
-</table>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
   <br><br>
