@@ -32,6 +32,7 @@
 - Web: [https://amirahdzh.vercel.app](https://amirahdzh.vercel.app/)
 - Email: [amirahdzh@gmail.com](mailto:amirahdzh@gmail.com)
 - LinkedIn: [amirahdzh](https://www.linkedin.com/in/amirahdzh)
+- Facebook : [Amirah Dzatul Himmah](https://www.facebook.com/in/amirahdzh)
 - Instagram: [@amirahdzatulhimmah](https://instagram.com/amirahdzatulhimmah)
 - Twitter: [@amirahdzh](https://twitter.com/amirahdzh)
 - Telegram: [@amirahdzh](https://t.me/amirahdzh)
@@ -56,7 +57,6 @@
  
 </p>
 -->
-
 
 ### 🛠️ Techstack
 <p align="left">
