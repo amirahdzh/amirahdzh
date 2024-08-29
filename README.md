@@ -6,6 +6,22 @@
 <!--   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>  -->
 </h1>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=flat" alt="Gading's Github Profile Views" />
+<!--   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
+  <br><br>
+  <details>
+    <summary>My Detail Stats (click me to toggle 👀)</summary>
+    <br>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadingnst&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gadingnst&theme=algolia" alt="Stat Streak" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=gadingnst&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  </details>
+</div>
+<br>
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
@@ -19,9 +35,9 @@
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Wm2_dA3yx4oAAAAd/%E3%83%A0%E3%83%BC%E3%83%8A-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" align="right"  width="50%" marginLeft="2em"/> -->
 
-🌍 &nbsp;Based in Bandung, Indonesia.\
-✉️ &nbsp;You can reach me at amirahdzh@gmail.com!
-🖥️ &nbsp;See my portfolio at https://amirahdzh.vercel.app/ .\
+🌍&nbsp;Based in Bandung, Indonesia.\
+✉️&nbsp;You can reach me at amirahdzh@gmail.com! .\
+🖥️&nbsp;See my portfolio at https://amirahdzh.vercel.app/ .\
 
 <!--
 ### 🌐 Socials
