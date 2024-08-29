@@ -10,25 +10,25 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=F7CB00&width=435&lines=Hi+There!;Glad+to+See+You+Here!+👋)](https://git.io/typing-svg) -->
 
-<p align="justify">I’m Amirah Dzatul Himmah – a code wizard and writing enthusiast! I love turning ideas into reality and crafting code that simplifies life. With a particular passion for web development, I enjoy designing and building engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
+<p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
 <p align="justify">Let’s connect if you want to chat or need a hand with something. I’m excited to meet new people and dive into interesting conversations!.<p>
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
-  <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/>  
+<!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/> -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Wm2_dA3yx4oAAAAd/%E3%83%A0%E3%83%BC%E3%83%8A-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" align="right"  width="50%" marginLeft="2em"/> -->
 
 🌍 &nbsp;Based in Bandung, Indonesia.\
 ✉️ &nbsp;You can reach me at amirahdzh@gmail.com!
-<!-- 🖥️ &nbsp;See my portfolio at https://slvallyweb.vercel.app/ .\ -->
+🖥️ &nbsp;See my portfolio at https://amirahdzh.vercel.app/ .\
 
 <!--
 ### 🌐 Socials
 
 <p align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafi-shidiq-b67122272) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rihito.riku) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rihitoRiku/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirahdzh) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rihito.riku) [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rihitoRiku/)
 <!-- <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
  
 </p>
