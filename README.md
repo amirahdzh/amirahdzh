@@ -6,18 +6,17 @@
 <!--   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>  -->
 </h1>
 
-<!-- Flexbox container to align content side by side -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- GitHub Stats -->
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
-  </div>
-  
-  <!-- About Me Paragraph -->
-  <div>
-    <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
+    </td>
+    <td>
+      <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.</p>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
