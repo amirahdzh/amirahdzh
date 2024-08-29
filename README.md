@@ -1,10 +1,34 @@
 <!-- ![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee) -->
 
-<h1 align="left">
+<h1 align="center">
   Haloo!
  <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/>
 <!--   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>  -->
 </h1>
+
+<!-- Flexbox container to align content side by side -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- GitHub Stats -->
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=flat" alt="Gading's Github Profile Views" />
+<!--   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
+  <br><br>
+  <details>
+    <summary>My Detail Stats (click me to toggle 👀)</summary>
+    <br>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahdzh&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirahdzh&theme=algolia" alt="Stat Streak" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=amirahdzh&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  </details>
+  </div>
+  
+  <!-- About Me Paragraph -->
+  <div>
+    <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.</p>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw Github Stats">
@@ -37,7 +61,7 @@
 
 🌍&nbsp;Based in Bandung, Indonesia.\
 ✉️&nbsp;You can reach me at amirahdzh@gmail.com! .\
-🖥️&nbsp;See my portfolio at https://amirahdzh.vercel.app/ .\
+🖥️&nbsp;See my portfolio at https://amirahdzh.vercel.app/
 
 <!--
 ### 🌐 Socials
