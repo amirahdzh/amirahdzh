@@ -42,9 +42,9 @@
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rihitoRiku&show_icons=true&theme=dark&include_all_commits=true&count_private=true" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Wm2_dA3yx4oAAAAd/%E3%83%A0%E3%83%BC%E3%83%8A-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif" align="right"  width="50%" marginLeft="2em"/> -->
 
-🌍&nbsp;Based in Bandung, Indonesia.\
-✉️&nbsp;You can reach me at amirahdzh@gmail.com! .\
-🖥️&nbsp;See my portfolio at https://amirahdzh.vercel.app/
+<!-- 🌍&nbsp;Based in Bandung, Indonesia.\
+<!-- ✉️&nbsp;You can reach me at amirahdzh@gmail.com! .\
+<!-- 🖥️&nbsp;See my portfolio at https://amirahdzh.vercel.app/
 
 <!--
 ### 🌐 Socials
