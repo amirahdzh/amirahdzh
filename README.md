@@ -11,7 +11,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=ff69b4" alt="Amiw's Github Profile Views" />
 <!--   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
-  <br><br>
+  <!--<br><br>
   <!--<details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
