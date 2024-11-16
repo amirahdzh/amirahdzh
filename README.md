@@ -58,7 +58,7 @@
 </p>
 -->
 
-### 🛠️ Techstack
+<!-- ### 🛠️ Techstack
 <p align="left">
   
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -74,7 +74,7 @@
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&color=informational&logo=express)
 <!-- ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&color=informational&logo=prisma) -->
 <!-- ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&color=informational&logo=amazon-aws) -->
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
+<!-- ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
 
 </p>
 
