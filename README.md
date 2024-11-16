@@ -1,10 +1,10 @@
 <!-- ![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee) -->
-
+<!--
 <h1 align="center">
   Haloo!
  <img src="https://media.tenor.com/RpXukdyagxsAAAAi/angry-fox.gif" width="60px"/>
 <!--   <img src="https://media.tenor.com/YLOlmVlg304AAAAi/shiro-cute.gif" width="60px"/>  -->
-</h1>
+<!-- </h1> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw's Github Stats">
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=ff69b4" alt="Amiw's Github Profile Views" />
 <!--   <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
   <br><br>
-  <details>
+  <!--<details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahdzh&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
