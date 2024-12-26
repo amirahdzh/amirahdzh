@@ -1,4 +1,7 @@
-# 🌟 Welcome to My Digital Realm! 🌟 
+<h1 align="center">🌟 Welcome to My Digital Realm! 🌟 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="50" />
+</h1>
+
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="300" />
 </p>
