@@ -1,3 +1,39 @@
+# 🌟 Welcome to My Digital Realm! 🌟 
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="300" />
+</p>
+
+<p align="justify">
+Hey there! I’m **Amirah Dzatul Himmah**, your friendly neighborhood **software developer** and **storytelling enthusiast**. 🚀 I specialize in crafting **beautiful web experiences** and coding solutions that feel like magic – making the complex, simple, and the mundane, delightful. ✨
+</p>
+
+---
+
+## 👩‍💻 **What I Do**
+- 🛠 **Code Alchemist**: Transforming ideas into interactive, functional websites.  
+- ✍️ **Wordsmith**: Crafting words into compelling stories, blogs, and technical write-ups.  
+- 🎮 **Challenge Seeker**: Tackling coding puzzles, leveling up in games, and exploring creative ventures.  
+
+---
+
+## 🌈 **My Philosophy**
+I believe that **creativity and technology** go hand in hand. Whether I'm debugging code or writing a blog, it’s all about solving problems, telling stories, and leaving a little sparkle wherever I go. 💡✨  
+
+---
+
+## 🤝 **Let’s Connect!**
+- 🔗 **[Portfolio](#)**: (Coming Soon – It's worth the wait! 🚧)  
+- 💌 **Email**: amirah@example.com  
+- 💻 **LinkedIn**: [linkedin.com/in/amirah](#)  
+
+Let’s collaborate, brainstorm, or simply geek out about tech, books, or the latest travel destinations! 🌍  
+
+---
+
+<p align="center">
+“Technology is the art of solving problems. Creativity is the soul that makes the solution shine.”  
+</p>  
+
 <!-- ![banner](https://github.com/slvally/slvally/assets/133903731/b14e3dcd-4bd8-4d90-a11b-74be3e5461ee) -->
 <!--
 <h1 align="center">
@@ -28,14 +64,6 @@
 
 <p align="justify">I’m Amirah Dzatul Himmah – a software developer and writing enthusiast. I enjoy bringing ideas to life through coding and creating solutions that simplify everyday tasks. With a particular passion for web development, I design and build engaging, functional websites. Always eager to tackle new challenges, whether it's coding, gaming, blogging, or discovering new places.<p>
 <p align="justify">Let’s connect if you want to chat or need a hand with something. I’m excited to meet new people and dive into interesting conversations!.<p>
-
-- Web: [https://amirahdzh.vercel.app](https://amirahdzh.vercel.app/)
-- Email: [amirahdzh@gmail.com](mailto:amirahdzh@gmail.com)
-- LinkedIn: [amirahdzh](https://www.linkedin.com/in/amirahdzh)
-- Facebook : [Amirah Dzatul Himmah](https://www.facebook.com/in/amirahdzh)
-- Instagram: [@amirahdzatulhimmah](https://instagram.com/amirahdzatulhimmah)
-- Twitter: [@amirahdzh](https://twitter.com/amirahdzh)
-- Telegram: [@amirahdzh](https://t.me/amirahdzh)
 
 <!-- <img alt="" src="https://media.tenor.com/MYDG91HHJ-oAAAAC/vestia-zeta-hololive.gif" align="right"  width="50%" marginLeft="2em"/> -->
 <!-- <img alt="" src="https://media.tenor.com/Hyma91bpX1UAAAAC/no-game-no-life-ngnl.gif" align="right"  width="50%" marginLeft="3em"/> -->
