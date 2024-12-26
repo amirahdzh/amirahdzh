@@ -23,27 +23,6 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ---
 
 ## 🛠️ **Techstack**
-<p align="left">
-  
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=flat&color=informational&logo=tailwind-css)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=informational&logo=laravel)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
-![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&color=informational&logo=express)
-![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
-<!-- ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&color=informational&logo=prisma) -->
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-
-</p>
 
 <p align="left">
 
@@ -58,6 +37,7 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+<!-- -->
 ![](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -71,7 +51,7 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ---
 
 ## 🤝 **Let’s Connect!**
-- 🔗 **[Portfolio](#)**: (Coming Soon – It's worth the wait! 🚧)  
+- 🔗 **[Portfolio](https://amirahdzh.vercel.app)**: (Coming Soon – It's worth the wait! 🚧)  
 - 💌 **Email**: amirahdzh@gmail.com  
 - 💻 **LinkedIn**: [linkedin.com/in/amirahdzh](#)  
 
