@@ -35,9 +35,14 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=informational&logo=next.js)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&color=informational&logo=express)
+![](https://img.shields.io/badge/Framework-Vue.js-informational?style=flat&color=informational&logo=vue.js)
 <!-- ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&color=informational&logo=prisma) -->
 <!-- ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&color=informational&logo=amazon-aws) -->
  ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 </p>
 
