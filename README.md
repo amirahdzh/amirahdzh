@@ -36,35 +36,15 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-<!-- -->
 ![](https://img.shields.io/badge/Framework-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <!-- -->
 ![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!-- -->
 ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Tool-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-![](https://img.shields.io/badge/Code-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Code-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Code-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Framework-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-<!-- -->
-![](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 </p>
 
 
