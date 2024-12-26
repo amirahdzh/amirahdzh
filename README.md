@@ -3,21 +3,19 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
-<p align="justify">
-Hey there! I’m **Amirah Dzatul Himmah**, your friendly neighborhood **software developer** and **storytelling enthusiast**. 🚀 I specialize in crafting **beautiful web experiences** and coding solutions that feel like magic – making the complex, simple, and the mundane, delightful. ✨
-</p>
+<p align="justify"> Hi there! I’m Amirah Dzatul Himmah – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. </p> <p align="justify"> I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
 ---
 
-## 👩‍💻 **What I Do**
-- 🛠 **Code Alchemist**: Transforming ideas into interactive, functional websites.  
-- ✍️ **Wordsmith**: Crafting words into compelling stories, blogs, and technical write-ups.  
-- 🎮 **Challenge Seeker**: Tackling coding puzzles, leveling up in games, and exploring creative ventures.  
+## 🔧 **What I Bring to the Table**
+- 🛠 **Web Development**: Designing and building intuitive, responsive websites.
+- 🎮 **Problem Solving**: Breaking down challenges and finding effective solutions.  
+- ✍️ **Writing**: From technical content to creative pieces, I enjoy crafting engaging stories..  
 
 ---
 
-## 🌈 **My Philosophy**
-I believe that **creativity and technology** go hand in hand. Whether I'm debugging code or writing a blog, it’s all about solving problems, telling stories, and leaving a little sparkle wherever I go. 💡✨  
+## 🌈 **Why Work With Me?**
+I approach every project with curiosity, adaptability, and a commitment to delivering results. Whether it’s tackling a complex codebase or brainstorming ideas, I’m always eager to contribute and collaborate. 💡✨  
 
 ---
 
