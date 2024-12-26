@@ -20,8 +20,6 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ---
 
 ## 🛠️ **Techstack**
-
- ### 🛠️ Techstack
 <p align="left">
   
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
@@ -31,13 +29,12 @@ I approach every project with curiosity, adaptability, and a commitment to deliv
 ![](https://img.shields.io/badge/Code-Tailwind%20CSS-informational?style=flat&color=informational&logo=tailwind-css)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&color=informational&logo=laravel)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
-![](https://img.shields.io/badge/Platform-Google%20Cloud-informational?style=flat&color=informational&logo=google-cloud)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=informational&logo=next.js)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&color=informational&logo=express)
 <!-- ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&color=informational&logo=prisma) -->
 <!-- ![](https://img.shields.io/badge/Platform-AWS-informational?style=flat&color=informational&logo=amazon-aws) -->
-<!-- ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
+ ![](https://img.shields.io/badge/Design-Figma-informational?style=flat&color=informational&logo=figma)
 
 </p>
 
