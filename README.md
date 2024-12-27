@@ -14,12 +14,12 @@
 
 ---
 
-### 🔧 **What I Bring to the Table**
+### 🔧 What I Bring to the Table
 - 🛠 **Web Development**: Designing and building intuitive, responsive websites.
 - 🎮 **Problem Solving**: Breaking down challenges and finding effective solutions.  
 - ✍️ **Writing**: From technical content to creative pieces, I enjoy crafting engaging stories..  
 
-### 🛠️ &nbsp; **Techstack**
+### 🛠️ &nbsp; Techstack
 
 <p align="left">
 
@@ -54,21 +54,20 @@
 
 ---
 
-<h2 align="center">🤝 Let’s Connect!
-<!--   <img src="https://media.giphy.com/media/xUPGcyi7WWaCiLg8JW/giphy.gif" alt="Shining Sun" width="50" /> -->
-</h2>
+### 🤝 &nbsp; Let’s Connect!
 
-<p align="center">
-<a href="https://www.facebook.com/amiwdzh"><img src="https://img.shields.io/badge/Amiw%20Dzh-843AB5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<p align="left">
+<a href="https://www.facebook.com/amiwdzh"><img src="https://img.shields.io/badge/Amiw%20Dzh-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:amirahdzh@gmail.com"><img src="https://img.shields.io/badge/amirahdzh@gmail.com-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/amirahdzh/"><img src="https://img.shields.io/badge/-Amirah%20Dzatul%20Himmah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://medium.com/@amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/amiw.dzh/"><img src="https://img.shields.io/badge/@amiw.dzh-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
 </p>
 
 ---
 
 <p align="center">
-“Technology is the art of solving problems. Creativity is the soul that makes the solution shine.”  
+  <em>“Technology is the art of solving problems. Creativity is the soul that makes the solution shine.”</em>
 </p>
