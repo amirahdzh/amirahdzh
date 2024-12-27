@@ -8,7 +8,7 @@
 
 <p align="justify"> Hi there! I’m <strong>Amiw</strong> (Amirah Dzatul Himmah) – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
-📍 Bandung, West Java. <br>
+📍 &nbsp; Bandung, West Java. <br>
 🌐 &nbsp; **Visit My [Portfolio](https://amirahdzh.vercel.app).** <br>
 📄 &nbsp; **Take A Look At My [Resume](#).**
 
@@ -51,6 +51,8 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=amirahdzh)
+
+---
 
 ### 🤝 &nbsp; **Let’s Connect!**
 
