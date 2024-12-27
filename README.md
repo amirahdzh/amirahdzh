@@ -6,11 +6,17 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
+<p align="center">
+<img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://tenor.com/view/%E0%A4%97%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%B8%E0%A4%BE-%E0%A4%AB%E0%A5%87%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%BE-%E0%A4%B2%E0%A5%8B%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%B6%E0%A4%BE-%E0%A4%A4%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A4%A8%E0%A4%BE-gif-14281613)" alt="Coding GIF" width="300" />
+</p>
+
+
+
 <p align="justify"> Hi there! I’m Amirah Dzatul Himmah – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
 📍 Bandung, West Java. <br> <br>
-🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)** <br>
-🌐 **[Take A Look At My Resume](#)**
+🌐 &nbsp; **Visit My [Portfolio](https://amirahdzh.vercel.app)** <br>
+📄 &nbsp; **Take A Look At My [Resume](#)**
 
 ---
 
