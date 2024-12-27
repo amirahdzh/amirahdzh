@@ -8,8 +8,9 @@
 
 <p align="justify"> Hi there! I’m Amirah Dzatul Himmah – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
-🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)**
-📍 Bandung, West Java.
+📍 Bandung, West Java. <br> <br>
+🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)** <br>
+🌐 **[Take A Look At My Resume](#)**
 
 ---
 
@@ -57,22 +58,6 @@
 <!-- -->
 <!-- ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) -->
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw's Github Stats">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=ff69b4" alt="Amiw's Github Profile Views" />
-  <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
-  <br><br>
-  <details>
-    <summary>My Detail Stats (click me to toggle 👀)</summary>
-    <br>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahdzh&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirahdzh&theme=algolia" alt="Stat Streak" /></p>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=amirahdzh&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-  </details>
-</div>
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
