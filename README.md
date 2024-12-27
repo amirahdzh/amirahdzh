@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Welcome to My Digital Realm! 🌟 
-  <img src="https://media.giphy.com/media/xUPGcyi7WWaCiLg8JW/giphy.gif" alt="Shining Sun" width="50" />
+<!--   <img src="https://media.giphy.com/media/xUPGcyi7WWaCiLg8JW/giphy.gif" alt="Shining Sun" width="50" /> -->
 </h1>
 
 <p align="center">
@@ -8,7 +8,8 @@
 
 <p align="justify"> Hi there! I’m Amirah Dzatul Himmah – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
-🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)**: Explore my work and get to know my journey as a developer.  
+🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)**
+📍 Bandung, West Java.
 
 ---
 
@@ -57,6 +58,22 @@
 <!-- ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) -->
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&theme=dracula" alt="Amiw's Github Stats">
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=amirahdzh&color=F4A4B5&style=ff69b4" alt="Amiw's Github Profile Views" />
+  <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since May 13 2019" /> -->
+  <br><br>
+  <details>
+    <summary>My Detail Stats (click me to toggle 👀)</summary>
+    <br>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahdzh&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirahdzh&theme=algolia" alt="Stat Streak" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=amirahdzh&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  </details>
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -70,7 +87,6 @@
 ![](https://komarev.com/ghpvc/?username=amirahdzh)
 
 ### 🤝 &nbsp; **Let’s Connect!**
-- 🔗 **[Portfolio](https://amirahdzh.vercel.app)**: (Coming Soon – It's worth the wait! 🚧)  
 
 <p align="center">
 <a href="https://www.facebook.com/amiwdzh"><img src="https://img.shields.io/badge/Amiw%20Dzh-843AB5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -78,7 +94,7 @@
 <a href="https://www.linkedin.com/in/amirahdzh/"><img src="https://img.shields.io/badge/-Amirahr%20Dzatul%20Himmah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://www.instagram.com/amiw.dzh/"><img src="https://img.shields.io/badge/@amiw.dzh-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
