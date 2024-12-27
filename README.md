@@ -8,16 +8,16 @@
 
 <p align="justify"> Hi there! I’m Amirah Dzatul Himmah – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
 
+🌐 **[Visit My Portfolio](https://amirahdzh.vercel.app)**: Explore my work and get to know my journey as a developer.  
+
 ---
 
-## 🔧 **What I Bring to the Table**
+### 🔧 **What I Bring to the Table**
 - 🛠 **Web Development**: Designing and building intuitive, responsive websites.
 - 🎮 **Problem Solving**: Breaking down challenges and finding effective solutions.  
 - ✍️ **Writing**: From technical content to creative pieces, I enjoy crafting engaging stories..  
 
----
-
-## 🛠️ **Techstack**
+### 🛠️ &nbsp; **Techstack**
 
 <p align="left">
 
@@ -54,19 +54,32 @@
 <!-- ![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!-- -->
-<!-- ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-</p> -->
+<!-- ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) -->
+</p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<a href="https://github.com/amirahdzh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirahdzh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirahdzh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
----
+![](https://komarev.com/ghpvc/?username=amirahdzh)
 
-## 🤝 **Let’s Connect!**
+### 🤝 &nbsp; **Let’s Connect!**
 - 🔗 **[Portfolio](https://amirahdzh.vercel.app)**: (Coming Soon – It's worth the wait! 🚧)  
-- 💌 **Email**: amirahdzh@gmail.com  
-- 💻 **LinkedIn**: [linkedin.com/in/amirahdzh](#)  
 
-Let’s collaborate, brainstorm, or simply geek out about tech, books, or the latest travel destinations! 🌍  
+<p align="center">
+<a href="https://www.facebook.com/amiwdzh"><img src="https://img.shields.io/badge/Amiw%20Dzh-843AB5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:amirahdzh@gmail.com"><img src="https://img.shields.io/badge/amirahdzh@gmail.com-FD1D1D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amirahdzh/"><img src="https://img.shields.io/badge/-Amirahr%20Dzatul%20Himmah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-203645?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.instagram.com/amiw.dzh/"><img src="https://img.shields.io/badge/@amiw.dzh-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
