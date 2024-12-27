@@ -28,15 +28,21 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-![](https://img.shields.io/badge/Code-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<!-- ![](https://img.shields.io/badge/Code-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/Code-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 <!-- -->
-![](https://img.shields.io/badge/Framework-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<!-- ![](https://img.shields.io/badge/Framework-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -45,11 +51,11 @@
 ![](https://img.shields.io/badge/Framework-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 <!-- -->
-![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 <!-- -->
-![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-</p>
+<!-- ![](https://img.shields.io/badge/Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</p> -->
 
 
 
