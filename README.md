@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'am Amiw 🌟 
+<h1 align="left">Hi! I'am Amiw 🌟 
 <!--   <img src="https://media.giphy.com/media/xUPGcyi7WWaCiLg8JW/giphy.gif" alt="Shining Sun" width="50" /> -->
 </h1>
 <!--
@@ -30,7 +30,7 @@
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 <!--
@@ -52,9 +52,9 @@
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=amirahdzh) -->
+![](https://komarev.com/ghpvc/?username=amirahdzh&color=ff69b4) -->
 
----
+<!-- ---
 <h3 align="center">Let’s Connect!</h3>
 
 <p align="center">
@@ -66,4 +66,5 @@
 <a href="https://www.instagram.com/amiw.dzh/"><img src="https://img.shields.io/badge/@amiw.dzh-E2306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/amiwdzh"><img src="https://img.shields.io/badge/@amiwdzh-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
+-->
 
