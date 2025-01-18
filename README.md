@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'am Amiw 🌟 
+<h1 align="left">Hi! I'am Amiw 🌺
 <!--   <img src="https://media.giphy.com/media/xUPGcyi7WWaCiLg8JW/giphy.gif" alt="Shining Sun" width="50" /> -->
 </h1>
 <!--
@@ -7,20 +7,20 @@
 </p>
 -->
 <p align="justify">
-Hi there! I’m Amiw (Amirah Dzatul Himmah) – a back-end developer who’s always eager to learn and grow. I specialize in building robust and scalable server-side solutions, while my experience in front-end development helps me ensure smooth and user-friendly interactions. Beyond coding, I have a genuine passion for writing – whether it’s expressing myself through heartfelt poetry, sharing insights in technical blogs, or exploring creative storytelling. I’m constantly striving to improve and make a positive impact through my work.
+Hi there! I’m Amiw (Amirah Dzatul Himmah) – a full-stack developer who enjoys both back-end and front-end work, with a stronger passion for back-end development. I love creating reliable server-side features and ensuring seamless connections between the front-end and back-end. Outside of coding, I express my creativity through writing – whether it’s poetry, blogging, or storytelling.
 </p>
 
-📍 &nbsp; Bandung, West Java. <br>
-🌐 &nbsp; Visit My <a href="https://amiwdzh.vercel.app" target="_blank">Personal Web</a>. <br>
-📩 &nbsp; Email me at: amirahdzh@gmail.com. I will respond ASAP!
+📍 &nbsp; Depok, West Java. <br>
+🌐 &nbsp; Visit My <a href="https://amiwdzh.vercel.app">Personal Web</a>. <br>
+📩 &nbsp; Contact me at: amirahdzh@gmail.com. I'll respond ASAP.
 <!-- 🌐 &nbsp; **Visit My [Portfolio](https://amiwdzh.vercel.app){:target="_blank"}.** <br> -->
 <!-- 📄 &nbsp; **Take A Look At My [Resume](#).** -->
 
 ### 🔧 What I Bring to the Table
-- 🛠 **Back-End Development**: Crafting scalable APIs, managing databases, and optimizing server-side operations.
+- 🛠 **Back-End Development**: Building reliable APIs, working with databases, and improving server-side functionality.
 - 🎨 **Front-End Development**: Designing intuitive and responsive user interfaces.
-- 🧩 **Problem Solving**: Breaking down challenges and delivering practical, impactful solutions.
-- ✍️ **Writing**: From technical blogs to heartfelt poetry, I enjoy creating meaningful and engaging content.
+- 🧩 **Problem Solving**: Tackling challenges with a practical approach to find effective solutions.
+- ✍️ **Writing**: Whether it’s sharing ideas through blogs or expressing creativity in poetry, I enjoy connecting through words.
 
 ### 🛠️ &nbsp; Techstack
 
@@ -30,20 +30,22 @@ Hi there! I’m Amiw (Amirah Dzatul Himmah) – a back-end developer who’s alw
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+
 <!--
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
