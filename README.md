@@ -6,31 +6,41 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 -->
-<p align="justify"> Hi there! I’m <strong>Amiw</strong> (Amirah Dzatul Himmah) – a dedicated software developer and writing enthusiast. My focus is on creating clean, functional, and user-friendly websites that not only look great but also solve real-world problems. I enjoy combining creativity with technical skills to build solutions that make everyday tasks easier. Beyond web development, I’m passionate about writing, whether it’s sharing knowledge through blogs or diving into storytelling. </p>
+<p align="justify">
+Hi there! I’m Amiw (Amirah Dzatul Himmah) – a back-end developer who’s always eager to learn and grow. I specialize in building robust and scalable server-side solutions, while my experience in front-end development helps me ensure smooth and user-friendly interactions. Beyond coding, I have a genuine passion for writing – whether it’s expressing myself through heartfelt poetry, sharing insights in technical blogs, or exploring creative storytelling. I’m constantly striving to improve and make a positive impact through my work.
+</p>
 
 📍 &nbsp; Bandung, West Java. <br>
-🌐 &nbsp; **Visit My <a href="https://amiwdzh.vercel.app" target="_blank">Portfolio</a>.**
+🌐 &nbsp; Visit My <a href="https://amiwdzh.vercel.app" target="_blank">Personal Web</a>. <br>
+📩 &nbsp; Email me at: amirahdzh@gmail.com. I will respond ASAP!
 <!-- 🌐 &nbsp; **Visit My [Portfolio](https://amiwdzh.vercel.app){:target="_blank"}.** <br> -->
 <!-- 📄 &nbsp; **Take A Look At My [Resume](#).** -->
 
 ### 🔧 What I Bring to the Table
-- 🛠 **Web Development**: Designing and building intuitive, responsive websites.
-- 🎮 **Problem Solving**: Breaking down challenges and finding effective solutions.  
-- ✍️ **Writing**: From technical content to creative pieces, I enjoy crafting engaging stories..  
+- 🛠 **Back-End Development**: Crafting scalable APIs, managing databases, and optimizing server-side operations.
+- 🎨 **Front-End Development**: Designing intuitive and responsive user interfaces.
+- 🧩 **Problem Solving**: Breaking down challenges and delivering practical, impactful solutions.
+- ✍️ **Writing**: From technical blogs to heartfelt poetry, I enjoy creating meaningful and engaging content.
 
 ### 🛠️ &nbsp; Techstack
 
 <p align="left">
 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
-![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 <!--
