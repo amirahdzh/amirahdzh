@@ -16,11 +16,13 @@ Hi there! I’m Amiw (Amirah Dzatul Himmah) – a full-stack developer who enjoy
 <!-- 🌐 &nbsp; **Visit My [Portfolio](https://amiwdzh.vercel.app){:target="_blank"}.** <br> -->
 <!-- 📄 &nbsp; **Take A Look At My [Resume](#).** -->
 
+<!--
 ### 🔧 What I Bring to the Table
 - 🛠 **Back-End Development**: Building reliable APIs, working with databases, and improving server-side functionality.
 - 🎨 **Front-End Development**: Designing intuitive and responsive user interfaces.
 - 🧩 **Problem Solving**: Tackling challenges with a practical approach to find effective solutions.
 - ✍️ **Writing**: Whether it’s sharing ideas through blogs or expressing creativity in poetry, I enjoy connecting through words.
+-->
 
 ### 🛠️ &nbsp; Techstack
 
