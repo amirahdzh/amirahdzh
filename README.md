@@ -14,10 +14,10 @@
 
 <!-- [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=amirahdzh@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com) -->
 
-<h3 align="left">Languages and Tools and Stuff</h3>
+<h3 align="left">Techstack</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,go,docker,php,laravel,express,nodejs,tailwind,vercel,bootstrap,postman,html,css,js,c,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,go,docker,php,laravel,express,nodejs,tailwind,vercel,bootstrap,postman,html,css,js)](https://skillicons.dev)
 
 
 <h3 align="left">Hit me up</h3>
