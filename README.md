@@ -10,6 +10,7 @@
 - [x] Learning Go – diving deep into **Back-end development** environment
 - [x] Familiar with **JavaScript** and actively exploring new tools and frameworks.
 - [x] Passionate about **writing** – from **poetry** to **blogging** and **storytelling**.
+- [x] **Love writing?** Let’s connect on <a href="https://medium.com/@amiwdzh">Medium</a> – I'll follow back for sure! xD
 
 📍  Depok, West Java. <br>
 
