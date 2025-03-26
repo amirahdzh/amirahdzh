@@ -20,7 +20,7 @@
 <p align="left"> 
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,go,docker,php,laravel,express,nodejs)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vercel,bootstrap,postman,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,tailwind,vercel,bootstrap,postman,html,css,js)](https://skillicons.dev)
 
 
 <h3 align="left">Hit me up</h3>
@@ -29,11 +29,11 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=amirahdzh@gmail.com)
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight&hide=python,jupyter+notebook" alt="farisfaikar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirahdzh&show_icons=true&locale=en&theme=tokyonight&hide=python,jupyter+notebook" alt="amirahdzh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farisfaikar&show_icons=true&locale=en&theme=tokyonight" alt="farisfaikar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirahdzh&show_icons=true&locale=en&theme=tokyonight" alt="amirahdzh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farisfaikar&theme=tokyonight" alt="farisfaikar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirahdzh&theme=tokyonight" alt="amirahdzh" /></p>
 
 <h3 align="left">Useless Graphs</h3>
 
