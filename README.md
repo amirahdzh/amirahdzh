@@ -19,8 +19,9 @@
 <h3 align="left">Techstack</h3>
 <p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,go,docker,php,laravel,express,nodejs)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,tailwind,vercel,bootstrap,postman,html,css,js)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,go,docker,php,laravel,express,nodejs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,vercel,bootstrap,postman,html,css,js)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,laravel,go,nodejs,mysql,postgres)](https://skillicons.dev)
 
 
 <h3 align="left">Hit me up</h3>
