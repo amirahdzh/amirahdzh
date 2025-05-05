@@ -12,7 +12,7 @@
 - [x] Passionate about **writing** – from **poetry** to **blogging** and **storytelling**.
 - [x] **Love writing?** Let’s connect on <a href="https://medium.com/@amiwdzh">Medium</a> – I'll follow back for sure! xD
 
-📍  Bandung, Indonesia. <br>
+📍  Yogyakarta, Indonesia. <br>
 
 <!-- [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=amirahdzh@gmail.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com) -->
 
